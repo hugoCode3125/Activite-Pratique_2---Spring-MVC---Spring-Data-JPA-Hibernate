@@ -120,10 +120,10 @@ Fonctionnalités de sécurité :
 *![img_1.png](img_1.png)*
 
 
+
 ---
 
 ### ✏️ Modifier un produit
-
 ![img_2.png](img_2.png)
 
 ---
