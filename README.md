@@ -111,20 +111,20 @@ Fonctionnalités de sécurité :
 ## 📸 Captures d'écran
 
 ### 📋 Liste des produits
-*![img.png](img.png)*
+*![Liste Produits](screenshots/products.png))*
 
 ---
 
 ### ➕ Ajouter un produit
 
-*![img_1.png](img_1.png)*
+*![New Product](screenshots/newProduct.png)*
 
 
 ---
 
 ### ✏️ Modifier un produit
 
-![img_2.png](img_2.png)
+*![Edit Product](screenshots/editProduct.png)*
 
 ---
 
